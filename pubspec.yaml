@@ -32,6 +32,6 @@ flutter:
     platforms:
       android:
         package: com.ayeee.blue_print_pos
-        pluginClass: BluePrintPosPlugin
+        pluginClass: BluePrintPosNewPlugin
       ios:
-        pluginClass: BluePrintPosPlugin
+        pluginClass: BluePrintPosNewPlugin
