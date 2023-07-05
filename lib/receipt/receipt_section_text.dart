@@ -1,5 +1,5 @@
-import 'package:blue_print_pos/receipt/collection_style.dart';
-import 'package:blue_print_pos/receipt/receipt_image.dart';
+import 'package:blue_print_pos_new/receipt/collection_style.dart';
+import 'package:blue_print_pos_new/receipt/receipt_image.dart';
 
 import 'receipt_alignment.dart';
 import 'receipt_line.dart';
@@ -33,9 +33,9 @@ ${CollectionStyle.all}
   <div class="receipt">
     <div class="container">
       <!-- testing part -->
-      
+
       $_data
-      
+
     </div>
   </div>
 </body>

@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:blue_print_pos/models/blue_device.dart';
+import 'package:blue_print_pos_new/models/blue_device.dart';
 import 'package:blue_thermal_printer/blue_thermal_printer.dart' as blue_thermal;
 import 'package:flutter_blue_plus/flutter_blue_plus.dart' as flutter_blue;
 

@@ -11,7 +11,7 @@ environment:
   sdk: ">=2.16.0 <3.0.0"
 
 dependencies:
-  blue_print_pos:
+  blue_print_pos_new:
     path: ../
 
   flutter:
