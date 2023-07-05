@@ -261,7 +261,7 @@ class _MyAppState extends State<MyApp> {
 
     /// Text after QR
     final ReceiptSectionText receiptSecondText = ReceiptSectionText();
-    receiptSecondText.addText('Powered by ayeee',
+    receiptSecondText.addText('Powered by anhht',
         size: ReceiptTextSizeType.small);
     receiptSecondText.addSpacer();
     await _bluePrintPos.printReceiptText(receiptSecondText, feedCount: 1);

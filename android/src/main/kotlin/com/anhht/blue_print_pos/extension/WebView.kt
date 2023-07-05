@@ -1,4 +1,4 @@
-package com.ayeee.blue_print_pos.extension
+package com.anhht.blue_print_pos.extension
 
 import android.graphics.Bitmap
 import android.graphics.Canvas

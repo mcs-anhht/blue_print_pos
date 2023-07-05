@@ -1,4 +1,4 @@
-group 'com.ayeee.blue_print_pos'
+group 'com.anhht.blue_print_pos'
 version '1.0-SNAPSHOT'
 
 buildscript {
